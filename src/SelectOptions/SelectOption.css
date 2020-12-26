@@ -1,0 +1,18 @@
+#SelectOption{
+    margin-top: 150px;
+}
+
+input{
+    outline :0;
+    border: 2px solid rgb(49, 49, 49);
+    border-width: 0 0 2px ;
+    width:200px;
+
+}
+button{
+    padding: 5px 10px;
+    margin-left: 25px;
+    border-radius:  5px;
+    font-size: 20px;
+    cursor:pointer
+}
